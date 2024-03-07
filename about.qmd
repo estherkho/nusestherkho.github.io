@@ -2,6 +2,6 @@
 title: "Data Story Project "
 ---
 
-# About 
+# About
 
 As part of the final project of NM2207, we are tasked to create a data story from our choice of data set. In view of that, I've chosen to base my data story and project on a data set I've found about \[topic\] from \[website\]
