@@ -9,6 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - NM2207 Weekly Journal.qmd
         
 format:
   html:
