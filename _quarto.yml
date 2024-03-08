@@ -10,12 +10,14 @@ website:
         text: Home
       - about.qmd
       - NM2207 Weekly Journal.qmd
+      - Photography.qmd
         
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+ 
 
 editor: visual
 

@@ -8,3 +8,11 @@ h1 {
 h2 {
   color: #000000;
 }
+ .image-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .side-by-side {
+    width: 50%;
+  }
