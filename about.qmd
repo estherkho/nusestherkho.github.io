@@ -9,3 +9,7 @@ title: "Data Story Project "
 As part of the final project of NM2207, we are tasked to create a data story from our choice of data set. In view of that, I've chosen to base my data story and project on a data set I've found about Spotify.
 
 As someone who really loves to listen music, I'm interested to explore any observable correlations between the popularity of Spotify songs and the elements of the music to find out if there are specific factors that influences the popularity of music.
+
+```{=html}
+<iframe height="400" width="100%" frameborder="no" src="https://nusestherkho.shinyapps.io/personal_app/"> </iframe>
+```

@@ -8,6 +8,12 @@ h1 {
 h2 {
   color: #000000;
 }
+ 
+ <div class="image-container">
+    ![Image 1](images/hoga%202024-02-21%20125731.651.JPG)
+    ![Image 2](images/hoga%202024-02-21%20130013.736.JPG)
+</div>
+
  .image-container {
     display: flex;
     flex-wrap: wrap;

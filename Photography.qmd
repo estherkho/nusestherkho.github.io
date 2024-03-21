@@ -2,20 +2,20 @@
 title: "Photography"
 ---
 
-![](images/hoga 2024-02-21 125731.651.JPG){width="400"}
+![](images/hoga%202024-02-21%20125731.651.JPG){width="300"}
 
-![](images/hoga 2024-02-21 130013.736.JPG){width="400"}
+![](images/hoga%202024-02-21%20130013.736.JPG){width="300"}
 
-![](images/hoga 2024-02-21 131730.778.JPG){width="400"}
+![](images/hoga%202024-02-21%20131730.778.JPG){width="300"}
 
-![](images/hoga 2024-02-21 134852.081.JPG){width="400"}
+![](images/hoga%202024-02-21%20134852.081.JPG){width="300"}
 
-![](images/hoga 2024-02-21 140153.819.JPG){width="400"}
+![](images/hoga%202024-02-21%20140153.819.JPG){width="300"}
 
-![](images/hoga 2024-02-21 140544.116.JPG){width="400"}
+![](images/hoga%202024-02-21%20140544.116.JPG){width="300"}
 
-![](images/hoga 2024-02-21 141510.964.JPG){width="400"}
+![](images/hoga%202024-02-21%20141510.964.JPG){width="300"}
 
-![](images/hoga 2024-02-21 143440.081.JPG){width="400"}
+![](images/hoga%202024-02-21%20143440.081.JPG){width="300"}
 
-![](images/hoga 2024-02-21 144132.453.JPG){width="400"}
+![](images/hoga%202024-02-21%20144132.453.JPG){width="300"}
