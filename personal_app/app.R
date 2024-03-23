@@ -7,7 +7,7 @@ songs <- read_csv("spotify_songs_edited.csv")
 
 # Define UI for application that draws a histogram
 ui <- fluidPage(
-  theme = shinytheme("cyborg"),
+  theme = shinytheme("sandstone"),
   titlePanel("Spotify Music"),
   sidebarLayout(
     sidebarPanel(
