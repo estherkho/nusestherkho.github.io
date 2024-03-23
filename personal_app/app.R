@@ -22,7 +22,7 @@ ui <- fluidPage(
     ),
     mainPanel(
       h3(textOutput("caption", container = span)),
-      plotOutput("plot", width = "800px", height = "600px") # Output: Plot based on selected variables
+      plotOutput("plot", width = "600px", height = "400px") # Output: Plot based on selected variables
     )
   )
 )
