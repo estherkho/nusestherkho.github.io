@@ -3,7 +3,7 @@ library(ggplot2)
 library(shinythemes)
 library(readr)
 
-songs <- read_csv("spotify_songs_edited.csv")
+songs <- read_csv("top50.csv")
 
 # Define UI for application that draws a histogram
 ui <- fluidPage(
@@ -22,7 +22,7 @@ ui <- fluidPage(
     ),
     mainPanel(
       h3(textOutput("caption", container = span)),
-      plotOutput("plot", width = "600px", height = "400px") # Output: Plot based on selected variables
+      plotOutput("plot", width = "1000px", height = "800px") # Output: Plot based on selected variables
     )
   )
 )
@@ -60,12 +60,12 @@ server <- function(input, output) {
     if (input$dataset == "songs") {
       updateSelectInput(
         inputId = "plot_variable_x",
-        choices = c("danceability","valence","speechiness","tempo"),
+        choices = c("Beats.Per.Minute", "Danceability", "Energy", "Speechiness.", "Liveness", "Valence.", "Acousticness.."),
         selected = NULL
       )}
     updateSelectInput(
       inputId = "plot_variable_y",
-      choices = c("track_popularity"),
+      choices = c("Popularity"),
       selected = NULL
     )
   }
