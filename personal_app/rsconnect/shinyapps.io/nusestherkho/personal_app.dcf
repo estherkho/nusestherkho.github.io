@@ -5,7 +5,7 @@ account: nusestherkho
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 11551308
-bundleId: 8422382
+bundleId: 8422434
 url: https://nusestherkho.shinyapps.io/personal_app/
 version: 1
 asMultiple: FALSE
