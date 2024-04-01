@@ -8,23 +8,13 @@ h1 {
 h2 {
   color: #000000;
 }
- 
-img {
+
+#about.qmd img {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-figcaption {
+#about.qmd figcaption {
   text-align: center;
 }
-
-<style>
-.indented-paragraph {
-  padding-left: 20px;
-}
-</style>
-
-<p class="indented-paragraph">
-This is an indented paragraph.
-</p>
