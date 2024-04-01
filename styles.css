@@ -9,16 +9,22 @@ h2 {
   color: #000000;
 }
  
- <div class="image-container">
-    ![Image 1](images/hoga%202024-02-21%20125731.651.JPG)
-    ![Image 2](images/hoga%202024-02-21%20130013.736.JPG)
-</div>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
- .image-container {
-    display: flex;
-    flex-wrap: wrap;
-  }
-  
-  .side-by-side {
-    width: 50%;
-  }
+figcaption {
+  text-align: center;
+}
+
+<style>
+.indented-paragraph {
+  padding-left: 20px;
+}
+</style>
+
+<p class="indented-paragraph">
+This is an indented paragraph.
+</p>

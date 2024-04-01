@@ -82,7 +82,7 @@ server <- function(input, output) {
       ggplot(dataset, aes_string(x = variable_x, y = variable_y)) +
         geom_point() +
         labs(x = variable_x, y = variable_y,  title = paste(variable_y, "vs", variable_x)) +
-        theme_minimal() +
+        theme(plot.title = element_text(face = "bold", size = 20)) +
         geom_smooth(method = "lm")
     }
   })
