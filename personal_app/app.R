@@ -11,7 +11,7 @@ ui <- fluidPage(
   titlePanel("Spotify Music"),
   sidebarLayout(
     sidebarPanel(
-      titlePanel("Popularity vs Elements of Music"),
+      titlePanel("What does the data show?"),
       selectInput(inputId = "dataset", label = "Dataset", choices = c("songs")),
       selectInput(inputId = "plot_variable_x",
                   label = "Select x-axis variable:",
@@ -60,7 +60,7 @@ server <- function(input, output) {
     if (input$dataset == "songs") {
       updateSelectInput(
         inputId = "plot_variable_x",
-        choices = c("Beats.Per.Minute", "Danceability", "Liveness", "Valence."),
+        choices = c("Beats.Per.Minute", "Danceability", "Speechiness.", "Valence."),
         selected = NULL
       )}
     updateSelectInput(
@@ -81,7 +81,7 @@ server <- function(input, output) {
     if (!is.null(variable_x) && !is.null(variable_y)) {
       ggplot(dataset, aes_string(x = variable_x, y = variable_y)) +
         geom_point() +
-        labs(x = variable_x, y = variable_y) +
+        labs(x = variable_x, y = variable_y,  title = paste(variable_y, "vs", variable_x)) +
         theme_minimal() +
         geom_smooth(method = "lm")
     }
