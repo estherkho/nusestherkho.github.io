@@ -60,12 +60,12 @@ server <- function(input, output) {
     if (input$dataset == "songs") {
       updateSelectInput(
         inputId = "plot_variable_x",
-        choices = c("Beats.Per.Minute", "Danceability", "Energy", "Speechiness.", "Liveness", "Valence.", "Acousticness.."),
+        choices = c("Beats.Per.Minute", "Danceability", "Liveness", "Valence."),
         selected = NULL
       )}
     updateSelectInput(
       inputId = "plot_variable_y",
-      choices = c("Popularity"),
+      choices = c("Popularity", "Danceability" ),
       selected = NULL
     )
   }
