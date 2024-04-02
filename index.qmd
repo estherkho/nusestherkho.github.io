@@ -2,7 +2,7 @@
 title: "Esther's NM2207 Website"
 ---
 
-![](images/self-introduction.JPG){width="300"}
+![](images/self-introduction.JPG){fig-align="left" width="300"}
 
 # **Self-Introduction**
 
@@ -10,6 +10,6 @@ Welcome to my website!! I’m Esther, a Year 2 Sociology major who is minoring i
 
 In here, you’ll find the links to my Github from my journey in NM2207 and have the opportunity to explore my data story project and browse some of my personal photos that I took recently.
 
-![](https://i0.wp.com/media2.giphy.com/media/LHZyixOnHwDDy/giphy.gif)
+![](https://i0.wp.com/media2.giphy.com/media/LHZyixOnHwDDy/giphy.gif){fig-align="left"}
 
 Happy exploring!!!
