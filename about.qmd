@@ -23,17 +23,17 @@ Yet, there is a weak negative correlation between the music’s popularity and i
 
 ![Figure 2](images/Screenshot%202024-04-01%20at%209.24.22%20PM.png){fig-align="left" width="435"}
 
-![Figure 3](images/Screenshot%202024-04-01%20at%209.24.06%20PM.png){fig-align="left" width="435"}
+![Figure 3](images/Screenshot%202024-04-01%20at%209.24.06%20PM.png){alt="Figure 3" fig-align="left" width="435"}
 
 Both of this correlation observed between the music’s popularity and its elements supports the argument of Madan and Singhal (2012) which state that the engagement of motor actions through fast-paced music eases the process of memory encoding and retrieval, causing the music to remain memorable and popular among the general public. 
 
 Additionally, I also observe a weak positive correlation between the music’s popularity and its speechiness, which refer to the number of words in the song (Figure 4). According to Byron and Regan (2022), the inclusion of words in music allows musical information to be stored and retrieved easily through many ways since words are used to interpret the world around us. This demonstrates how popular songs have lyrics that aid in both improving our understanding and retention of the music. 
 
-![Figure 4](images/Screenshot%202024-04-01%20at%209.43.44%20PM.png){fig-align="left" width="435"}
+![Figure 4](images/Screenshot%202024-04-01%20at%209.43.44%20PM.png){alt="Figure 4" fig-align="left" width="435"}
 
 On the other hand, a weak negative correlation is observed between the music’s popularity and its valence, suggesting that people are more inclined to recall sad songs (Figure 5). This correlation observed may be attributed to individuals’ tendency to remember bad experiences more vividly than positive ones (Caren, 2018). As individuals tend to listen to sad songs when they encounter bad experiences, popular songs tend to have a sad connection in their music.
 
-![Figure 5](images/Screenshot%202024-04-01%20at%209.44.05%20PM.png){fig-align="left" width="435"}
+![Figure 5](images/Screenshot%202024-04-01%20at%209.44.05%20PM.png){alt="Figure 5" fig-align="left" width="435"}
 
 In conclusion, there does not seem to be a strong correlation between the popularity of the music and the elements of the music. This weak positive correlation noticed between some of the elements of music and the popularity of music may be attributed to the sparsely distributed points on the generated plots. Nonetheless, the popularity of the music is still determined by its tempo, speechiness and valence. As the popularity of music is dependent on the memorability among the general public, these weak correlations reflect that people tend to remember based on movements, words and emotions.
 
