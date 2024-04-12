@@ -5,7 +5,7 @@ account: nusestherkho
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 11738903
-bundleId: 8484217
+bundleId: 8484242
 url: https://nusestherkho.shinyapps.io/Playlist/
 version: 1
 asMultiple: FALSE

@@ -15,7 +15,7 @@ ui <- navbarPage(
   theme = shinytheme("cyborg"),
   title = "Spotify",
                  tabPanel(id = "tab",
-                          title = strong("Top 50 - Singapore"),
+                          title = strong("Top 50 - Global"),
                           icon = icon("circle-info"),  # updated
                           sidebarLayout(
                             sidebarPanel = '',  # updated
