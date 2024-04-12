@@ -39,7 +39,7 @@ In conclusion, there does not seem to be a strong correlation between the popula
 
 # What do you think?
 
-Listen to some of the popular music in Singapore and see if you can notice these patterns in the songs
+Listen to some of the popular music in the world and see if you can notice these patterns in the songs
 
 ```{=html}
 <iframe height="400" width="100%" frameborder="no" src="https://nusestherkho.shinyapps.io/Playlist/"> </iframe>
